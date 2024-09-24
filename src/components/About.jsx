@@ -38,7 +38,7 @@ const About = () => {
         variants={fadeIn('', '', 0.1, 1)}
         className="mt-4 text-taupe text-[18px] max-w-3xl leading-[30px]">
         Hi! My full name is Antonio Rodríguez Marqués. 
-        I'm a fullstack developer with 13 years of experience on developing wep applications in Java.
+        I'm a fullstack developer with 13 years of experience on developing web applications in Java.
         I made some large and small projects, not only for my professional carreer but also for my personal growing.
         I'm very passionate with learning new technologies, programming languages and libraries.<br/>
         One of my very favourite quotes is: “Develop a passion for learning. If you do, you will never cease to grow” – Anthony J. D’Angelo.
